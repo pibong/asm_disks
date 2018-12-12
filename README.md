@@ -15,5 +15,5 @@ DATAVOL002 = mpathe (3600014.........................4f) dm-2 500G
 * list mpath disks not used by asm
 ```
 $ asm_disks unused
-mpathe (3600014.........................4f) dm-2 500G
+mpathe (3600014.........................5f) dm-2 500G
 ```
